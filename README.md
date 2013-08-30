@@ -1,6 +1,10 @@
 SpreeLimitQty
 =============
 
+[![Build Status](https://travis-ci.org/ecl1pse/spree_limit_qty.png?branch=master)](https://travis-ci.org/ecl1pse/spree_limit_qty)
+[![Code Climate](https://codeclimate.com/github/ecl1pse/spree_limit_qty.png)](https://codeclimate.com/github/ecl1pse/spree_limit_qty)
+[![Coverage Status](https://coveralls.io/repos/ecl1pse/spree_limit_qty/badge.png)](https://coveralls.io/r/ecl1pse/spree_limit_qty)
+
 Limit the amount of qty a user can purchase at a time.
 
 Installation
