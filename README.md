@@ -1,7 +1,7 @@
 SpreeLimitQty
 =============
 
-Introduction goes here.
+Limit the amount of qty a user can purchase at a time.
 
 Installation
 ------------
